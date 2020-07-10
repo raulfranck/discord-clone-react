@@ -61,14 +61,14 @@ const ChannelData: React.FC = () => {
           content="Okay, see you later then"
         />
         <ChannelMessage
-          author="Raul Franck"
+          author="Jimmy Page"
           date="21/10/2020"
-          content="Good Morning!!"
+          content="Só se o Eddie Veder for também"
         />
         <ChannelMessage
-          author="Raul Franck"
+          author="Eddie Veder"
           date="21/10/2020"
-          content="Good Morning!!"
+          content="I go !"
         />
         <ChannelMessage
           author="Raul Franck"
