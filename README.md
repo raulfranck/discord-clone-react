@@ -17,7 +17,7 @@
 
 ## 💻 Projeto
 
-Clone do Discord web desenvolvido em React  
+Discord clone made in react and typescript developed to study the styled-components library 
 
 <div align="center">
   <img src="./src/assets/gif.gif" alt="demo" height="450">
@@ -26,7 +26,7 @@ Clone do Discord web desenvolvido em React
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was development witch the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -35,26 +35,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Acesse a aplicação: [Visualizar](https://condescending-mcclintock-2aed86.netlify.app/)
+Acesse the project: [View](https://condescending-mcclintock-2aed86.netlify.app/)
 
-## :zap: Como usar
+## :zap: How to use ?
 
-Para executar essa aplicação
+For execute this aplication
 
 
-1 - Em um terminal, entrar na raiz do projeto **/clone-discord** e rodar o comando:
+1 - in a terminal, into the root **/clone-discord** and run the comand
 
 ```
 $ yarn install
 ```
 
-2 - Ainda na raiz do projeto, rodar o comando:
+2 - still at the root, run the comand 
 
 ```
 $ yarn start
 ```
 
-Feito isso, abrirá seu navegador na porta http://localhost:3000
+do this and open the browser with the project in port  http://localhost:3000
 
 ---
 
